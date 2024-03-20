@@ -20,7 +20,7 @@ This is the *ITALIC* word
 - three
 - four
 
-This is the link to [GitHub] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings).
+This is the link to [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings).
 
 ![Cat](https://myoctocat.com/assets/images/octocats/octocat-23.png)
 
